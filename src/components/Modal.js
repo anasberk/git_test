@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Modal = () => {
-	return <div>Modal Here</div>;
+	return <div>Ceci est un modal</div>;
 };
 
 export default Modal;
